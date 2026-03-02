@@ -26,7 +26,11 @@ Utilizing this feature, you can avoid certain boss mechanics. For example its ve
 
 If you have a RoR4, you sequence should be:
 
+![RoR4 Sequence](ror4.png)
+
 For RoR5 users you should use:
+
+![RoR5 Sequence](ror5.png)
 
 Note that you will want to use the boundless rage sequence a fair amount before your burst. For example, prior to entering the boss for the first burst.
 
