@@ -32,7 +32,7 @@ For RoR5 users you should use:
 
 ![RoR5 Sequence](ror5.png)
 
-Note that you will want to use the boundless rage sequence a fair amount before your burst. For example, prior to entering the boss for the first burst.
+Note that you will want to use the boundless rage sequence a fair amount before your burst. For example, prior to entering the boss for the first burst. I advise placing your ring activation key on a sequence for when you pop either RoR or WJ, it makes it pop much smoother.
 
 ### How do I burst on this class?
 
