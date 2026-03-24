@@ -24,7 +24,7 @@ Lumi link and lynn link can be good flex options for players with less progresse
 - Infernal Concussion, Demon Cry, Dark Metamorphosis
 
 ### HEXA / 6th Job Priority
-This is generated based on a 16 burst, 30 minute long boss fight. If your run is faster than this, ascent value goes up tremendously. You can view a spreadsheet version [here](https://docs.google.com/spreadsheets/d/1YcRuFqoJ-6dIJWqFyQP42ucSAIBrBqdL_7JTWGJRcgQ/edit?usp=sharing).
+This is generated based on a 16 burst, 30 minute long boss fight. If your run is faster than this, ascent value goes up tremendously. You can view a spreadsheet version [here](https://docs.google.com/spreadsheets/d/1PFwjsXHyYU_5lllXxrsEgczEX8AR1SOhCvzrmswrUPs/edit?usp=sharing).
 
 Newer players should invest in all hexastats upon finishing Awakening 1. For more progressed characters its less clear but you can estimate it based off of the FD gains from the sheet.
 

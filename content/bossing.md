@@ -55,11 +55,10 @@ Note that without a cooldown hat, using sequence after origin makes you at risk 
 ### Culvert Rotation
 
 ## 1. Setup & Pre-Entry
-*   **Auto Buff**: Ensure `Weapon Aura` is set to auto-buff.
 *   **Sequence**: Prepare your buff sequence:
-    `Boundless Rage` → `Demonic Fortitude` → `Mastema` → `Impenetrable Skin` → `Demon Awakening` → `Orthrus` → `Otherworld's Blessing`
+    `Boundless Rage` → `Demonic Fortitude` → `Mastema` → `Demon Awakening` → `Orthrus` → `Otherworld's Blessing`
 *   **Gene Iframe**: Pre-pop Genesis Iframe shortly before entering.
-*   **Timing**: Enter Culvert at **42 seconds** remaining on **Demon Awakening** (or **43s** if using a CD hat).
+*   **Timing**: The goal is to enter culvert with awakening coming up shortly after casting origin. With a -4 hat, ToF and a 250 mercedes legion, this is at **56 seconds** remaining on **Demon Awakening**. Enter later for every second of CDR you are missing.
 
 ## 2. Entry & Early Phase
 *   **Fatal Strike Proc**: Explode Genesis Iframe shortly after entering to proc `Fatal Strike`. If your not liberated, you can just proc it using any attack, but beware this makes it difficult to swap your hat if your doing so.
@@ -67,29 +66,26 @@ Note that without a cooldown hat, using sequence after origin makes you at risk 
 *   **Gear Swaps**: 
     1. Swap off `TOF Cape`. 
     2. Swap off `CD Hat` unless it has extremely high stats.
-*   **Phasing**: Use `Infernal Concussion` to phase until you can no longer one-shot mobs. Remember to debuff all phases you dont insta kill.
+*   **Phasing**: Use `Demon Impact` to phase until you can no longer one-shot mobs. Remember to debuff all phases you dont insta kill.
 
 ## 3. Entry Burst and DPM
-*   **Demon Bane Timing**: 
-    *   If using a CD hat: Start `Demon Bane` at **(122 - CDR)** seconds (e.g., 120s for -2, 118s for -4).
-    *   *Note: Add 1s if you do not have 250 Mercedes Legion.*
+*   **Demon Bane Timing**: You should unconditionally use **Demon Bane** at the start now. You want it come back up at around 6 seconds left. Using a -4 hat and 250 mercedes legion this is at 115s, so adjust based on your personal CDR. 
 *   **AB Link**: Pop `Angelic Buster Link` once you stop one-shotting stages.
-*   **First Awakening**: Transition to lashing and use `Demon Chain` off-cooldown.
+*   **First Awakening**: Only use lashes while continuous ring is active. Swap to demon impact whenever it is on cooldown. It's not really worth using chain during this period while you still have lash stacks.
 *   **Post-Awakening**: Use demon impact, while weaving in empowered chomps when they come off cooldown.
 *   **Ascent Casts**: Use ascent casts while your continuous ring is on cooldown. Be careful to only cast it when it wouldn't delay a fatal proc. If you need to skip a cont downtime or not depends on your CD hat and how fast you phase so its difficult to give a general answer.
 
 ## 4. End Burst
 *   **Will/Seren Nodes**: Pop at **53s**.
-*   **Ring Swap**: Swap `Cont -> ROR` at a time where it will be up when you want to cast it. For example with a RoR5 and -4 hat this would be at around 29s, while with a RoR4 and no CD hat it would be right before you cast origin. Don't bother using preset swap to swap to a CD hat, it's better to just remain in CD hat.
-*   **Origin**: Use `Nightmare` at **25s** left.
+*   **Ring Swap**: Swap `Cont -> ROR` at a time where it will be up when you want to cast it. With a RoR5 and 31s, while with a RoR4 it would be right before you cast origin. Don't bother using preset swap to swap to a CD hat, it's better to just remain in CD hat.
+*   **Origin**: Use `Nightmare` at **27s** left.
 *   **The Finish**:
+    *   Just spam lash, but use demon chain off cooldown still.
     *   Pop `ROR` and `AB Link` based on your specific durations so they last until the end.
-    *   **Spirit of Rage**: Use `Spirit of Rage` at **16s** left. If its not up in time because you casted it at the start, you need to cast it sooner at the start (or not at all if you lack enough CDR).
-    *   **Demon Bane**: Pop when off cooldown (if used early) or after a `Demonic Spear` fires.
-    *   **Origin**: End `Nightmare` at **2-3s** left, aligning with your fatal strike.
+    *   **Spirit of Rage**: Use `Spirit of Rage` at **16s** left. If its not up in time because you casted it at the start, you need to cast it sooner at the start (or not at all if you lack enough CDR). You should make a sequence with 2 filler skills along with it to make sure it casts faster.
+    *   **Demon Bane**: Pop as soon as it comes off cooldown.
+    *   **Origin**: Rely on the auto drop. It will line up automatically this way.
 
 Here is an example video of a rotation with RoR5 and a -4 hat:
 
-<div class="video-container">
-    <iframe width="100%" height="400" src="https://www.youtube.com/embed/RGr-W7HeSJU" title="Demon Slayer Culvert Rotation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+https://www.twitch.tv/videos/2730293576?t=03h11m14s
