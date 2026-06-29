@@ -14,7 +14,7 @@ There is some random color on skills which details their df costs. It doesn't re
 - Dark Purple: 91+ DF
 
 ### Is Demon Slayer a good class for beginners?
-Yes! Demon Slayers have high survivability, naturally high IED and very efficient HEXA skills. The farming is also famously extremely easy. There is one meaningful concern where not having an RFS makes you a lot weaker however.
+Yes! Demon Slayers have high survivability, naturally high IED and very efficient HEXA skills. The farming is also famously extremely easy. In the past missing RFS was a major con, but now you can pity RFS with Dawn Whisper Cores which solves this issue.
 
 ### Critical Rate
 Demon Slayer does need to hit 100% crit rate naturally. This is because dark metamorphosis, cerberus chomp and demonic plume do not auto crit. You will need to hit 100% crit through some combination of links, legion, hyper stats, etc.

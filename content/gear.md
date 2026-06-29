@@ -9,11 +9,9 @@ Both function the same damage-wise. The only difference is cosmetic.
 **Mandatory lines:**
 1. +20% Boss Damage
 2. 8% damage vs Abnormal Status
+3. Attack +21 or Buff Duration +38%
 
-**Flexible options:**
-Both options are valid and will likely perform similarly.
-- Buff Duration +38%. Used for longer AB link.
-- Attack +21. 
+Note that buff duration is optimal when at low legion where you cannot reach ~110% buff duration without it. However, once your legion becomes high enough attack + 21 becomes optimal. Note that SHINE link is what enables reaching such high buff duration without IA.
 
 ### WSE Potentials (ATT/Boss/IED)
 Target **0 IED lines** on your WSE in the long run. Either 9 lines of attack or 8 lines of attack and one line of boss are good right now. With the upcoming astra secondary 9 lines of attack will be the optimal however.

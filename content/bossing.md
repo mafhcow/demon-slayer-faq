@@ -24,7 +24,7 @@ Utilizing this feature, you can avoid certain boss mechanics. For example its ve
 
 ### What buff sequences do I use?
 
-If you have a RoR4, you sequence should be:
+If you have a RoR4, your sequences should be:
 
 ![RoR4 Sequence](ror4.png)
 
@@ -40,23 +40,26 @@ There are generally pretty big burst differences between if you have a RoR4 or a
 
 For RoR4 users, you will use the standard buff sequence without ring activation in it. For origin burst your rotation would look like:
 
-**Nightmare** -> **Sequence** -> **Snake** + **RoR** at 15s left on origin -> **Bane** -> End **Nightmare** right before it expires.
+**Nightmare** -> **Sequence** -> **RoR** at 15s left on origin -> **Bane** -> End **Nightmare** right before it expires.
 
-If the boss is at risk of disappearing after the bind ends, you can instead use **Snake** + **RoR** at 5s left on the origin bind timer and end **Nightmare** 2s before bind ends. For non origin bursts, you would simply use your normal burst sequence followed by **Snake** + **RoR** whenever they come off cooldown.
+If the boss is at risk of disappearing after the bind ends, you can instead use **RoR** at 5s left on the origin bind timer and end **Nightmare** 2s before bind ends. For non origin bursts, you would simply use your normal burst sequence followed by **RoR** whenever they come off cooldown.
 
 With a RoR5, the duration becomes long enough so that you can add ring activation to your sequence. This simplifies your origin burst to just:
 
-**Nightmare** -> **Snake** -> **Sequence** -> **Bane** -> End **Nightmare** right before it expires.
+**Nightmare** -> **Sequence** -> **Bane** -> End **Nightmare** right before it expires.
 
 While for non origin bursts you simply follow the same sequence but without origin.
 
-Note that without a cooldown hat, using sequence after origin makes you at risk of desyncing in party play. This is one of the reasons why cooldown hat is considered BiS. To avoid desyncing without a cooldown hat, you can use your sequence prior to origin (but you will need to remove the ring activation from it). Then use **Snake** + **RoR** after origin, either immediately if you have a RoR5 or at 15s left on origin if you have a RoR4. This is a slightly lower damage rotation but avoids desync.
+Note that without a cooldown hat, using sequence after origin makes you at risk of desyncing in party play. This is one of the reasons why cooldown hat is considered BiS. To avoid desyncing without a cooldown hat, you can use your sequence prior to origin (but you will need to remove the ring activation from it). Then use **RoR** after origin, either immediately if you have a RoR5 or at 15s left on origin if you have a RoR4. This is a slightly lower damage rotation but avoids desync.
+
+Another option is to leverage the auto drop on origin (you should not do this without RoR5). This is done by delaying your sequence by ~3s and just demon impacting after origin. That way the origin auto drop naturally occurs during RoR so you don't waste time casting the animation. I only recommend doing this rotation on bosses which can't disappear the moment the bind ends (so don't do it in Kalos or Limbo Spectre B for example), as the boss becomes unbound halfway through the end drop.
 
 ### Culvert Rotation
 
 ## 1. Setup & Pre-Entry
 *   **Sequence**: Prepare your buff sequence:
     `Boundless Rage` → `Demonic Fortitude` → `Mastema` → `Demon Awakening` → `Orthrus` → `Otherworld's Blessing`
+    **Hecate**: Take Styx off auto cast, bind Phlegethon to Bane.
 *   **Gene Iframe**: Pre-pop Genesis Iframe shortly before entering.
 *   **Timing**: The goal is to enter culvert with awakening coming up shortly after casting origin. With a -4 hat, ToF and a 250 mercedes legion, this is at **56 seconds** remaining on **Demon Awakening**. Enter later for every second of CDR you are missing.
 
@@ -69,7 +72,8 @@ Note that without a cooldown hat, using sequence after origin makes you at risk 
 *   **Phasing**: Use `Demon Impact` to phase until you can no longer one-shot mobs. Remember to debuff all phases you dont insta kill.
 
 ## 3. Entry Burst and DPM
-*   **Demon Bane Timing**: You should unconditionally use **Demon Bane** at the start now. You want it come back up at around 6 seconds left. Using a -4 hat and 250 mercedes legion this is at 115s, so adjust based on your personal CDR. 
+*   **Demon Bane Timing**: You should unconditionally use **Demon Bane** at the start now. You want it come back up at around 6 seconds left. Using a -4 hat and 250 mercedes legion this is at 115s, so adjust based on your personal CDR. Note that you should erda bind the first stage that doesn't insta die; this is to proc insult to injury since you cannot debuff the boss otherwise during bane.
+    **Sol Hecate Styx**: Use it once your on a stage that doesn't insta die, and then pop off cd afterwards.
 *   **AB Link**: Pop `Angelic Buster Link` once you stop one-shotting stages.
 *   **First Awakening**: Only use lashes while continuous ring is active. Swap to demon impact whenever it is on cooldown. It's not really worth using chain during this period while you still have lash stacks.
 *   **Post-Awakening**: Use demon impact, while weaving in empowered chomps when they come off cooldown.
@@ -88,4 +92,4 @@ Note that without a cooldown hat, using sequence after origin makes you at risk 
 
 Here is an example video of a rotation with RoR5 and a -4 hat:
 
-https://www.twitch.tv/videos/2730293576?t=03h11m14s
+[TODO PUT VIDEO]

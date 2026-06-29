@@ -12,9 +12,9 @@ Lumi link and lynn link can be good flex options for players with less progresse
 ### V-Matrix Priority
 **Skill Node Priority:**
 1. Demon Awakening
-2. Spirit of Rage
+2. Demon Bane
 3. Orthrus
-4. Demon Bane
+4. Spirit of Rage
 5. Weapon Aura
 6. Otherworld's Goddess' Blessing
 7. Mastema
@@ -31,3 +31,8 @@ Newer players should invest in all hexastats upon finishing Awakening 1. For mor
 Alternatively here is an infographic:
 
 ![Hexa Skills](hexa_path.png)
+
+### What do I bind Sol Hecate to?
+
+I recommend binding Sol Hecate Styx to AB link. You will still need to keybind Styx to manual cast it for when you cd skip AB Link and recast mid burst for regular bossing.
+Phlegethon should be bound to one of the first skills in your burst sequence, like Awakening. Bane also works ok, and is the ideal choice if your going for a 17 burst run.

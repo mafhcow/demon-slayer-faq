@@ -33,6 +33,15 @@ Maybe. It will generally lead to higher rates, but depending on map layout it ma
 ### Should I use HEXA Infernal Concussion?
 The HEXA version of infernal concussion removes the two part attack, guaranteeing almost all your mob skills will fall in the 0.7s DF lockout from chaos lock. However, the tradeoff is the damage requirement to farm becomes significantly lower as well as your hitbox on infernal concussion is much improved. In order to fix the issues, you will need to utilize `Boundless Rage` to sustain your DF. To increase the uptime you can utilize the Relentless special node and stacking buff duration. I find that ~130% buff duration is enough to sustain near 100% uptime.
 
+As of v269 it's pretty annoying to turn off HEXA Infernal Consussion now. As a result for lazy farming we now recommend doing lash farming, described in the following section!
+
+### Should I use Demon Lash?
+
+It turns out you can just replace Infernal Concussion with Demon Lash and it works really well. You have basically no DF issues and rely primarily on the various procs to clear (Sol Janus, Plume, etc) so this is generally the recommended way to TP farm nowadays. With Dusk 30 you can genrally still full clear fine even with Demon Lash. However there are some cons:
+
+- May not full clear without Janus 30.
+- Will fail to full clear during boosters. I recommend swapping to concussion (either HEXA or not) when you pop boosters.
+
 ### Should I use Sol Janus?
 Yes! Dusk mode is extremely overpowered with TP farming. It allows you to basically full clear maps with no effort.
 
