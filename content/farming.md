@@ -41,6 +41,7 @@ It turns out you can just replace Infernal Concussion with Demon Lash and it wor
 
 - May not full clear without Janus 30.
 - Will fail to full clear during boosters. I recommend swapping to concussion (either HEXA or not) when you pop boosters.
+- Higher damage requirement.
 
 ### Should I use Sol Janus?
 Yes! Dusk mode is extremely overpowered with TP farming. It allows you to basically full clear maps with no effort.

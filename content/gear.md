@@ -1,6 +1,6 @@
 ### Secondary Weapons (Demon Aegis)
 - **Princess No's Accursed Shield**: Great for +DF and stats. Good early game choice.
-- **Ruin Force Shield**: **BEST IN SLOT**. Gives 10% Final Damage but you take 15% more damage. Obtained from Damien. If your in reboot you just need to pray you get one as soon as possible.
+- **Ruin Force Shield**: **BEST IN SLOT**. Gives 10% Final Damage but you take 15% more damage. Obtained from Damien. Can also be pitied using Dawn Whisper Cores.
 
 ### Axe vs Mace
 Both function the same damage-wise. The only difference is cosmetic.

@@ -7,7 +7,13 @@
 
 ![Links Skills](links.png)
 
-Lumi link and lynn link can be good flex options for players with less progressed legion. Survival links can also be flexed if neccesary. The weakest links will depend on your exact progression but generally the order of links to drop would be: Kain, Ark, DA, Xenon, Thief.
+Lumi link and lynn link can be good flex options for players with less progressed legion. Survival links can also be flexed if neccesary. The weakest links will depend on your exact progression but generally the order of links to drop would be: Ark, DA, Xenon, Thief.
+
+### What do I autobuff?
+
+![Auto Buffs](autobuffs.png)
+
+You should auto buff dark meta. This is because the damage loss if you forget to refresh it is very severe.
 
 ### V-Matrix Priority
 **Skill Node Priority:**
@@ -36,3 +42,7 @@ Alternatively here is an infographic:
 
 I recommend binding Sol Hecate Styx to AB link. You will still need to keybind Styx to manual cast it for when you cd skip AB Link and recast mid burst for regular bossing.
 Phlegethon should be bound to one of the first skills in your burst sequence, like Awakening. Bane also works ok, and is the ideal choice if your going for a 17 burst run.
+
+### Should I reset my HEXA matrix for Sol Hecate?
+
+Generally you will see a small damage gain doing so, but because Demon Slayer has no "bad skills" it will be a fairly low gain. My observation is the best way to gain damage from resetting is by dropping M3 and M4 to 29, however many levels from Ascent you are willing to sacrifice, and then drain from ONLY Spirit of Rage afterwards (assuming you were already maxed, if you aren't just follow the normal HEXA order).

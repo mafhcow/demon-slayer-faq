@@ -32,7 +32,7 @@ For RoR5 users you should use:
 
 ![RoR5 Sequence](ror5.png)
 
-Note that you will want to use the boundless rage sequence a fair amount before your burst. For example, prior to entering the boss for the first burst. I advise placing your ring activation key on a sequence for when you pop either RoR or WJ, it makes it pop much smoother.
+Note that you will want to use a boundless rage sequence (Boundless + Leech Aura + Vengeance works fine) a fair amount before your burst. For example, prior to entering the boss for the first burst. I advise placing your ring activation key on a sequence for when you pop either RoR or WJ, it makes it pop much smoother. See the next section for why RoR4 has two sequences.
 
 ### How do I burst on this class?
 
@@ -52,7 +52,7 @@ While for non origin bursts you simply follow the same sequence but without orig
 
 Note that without a cooldown hat, using sequence after origin makes you at risk of desyncing in party play. This is one of the reasons why cooldown hat is considered BiS. To avoid desyncing without a cooldown hat, you can use your sequence prior to origin (but you will need to remove the ring activation from it). Then use **RoR** after origin, either immediately if you have a RoR5 or at 15s left on origin if you have a RoR4. This is a slightly lower damage rotation but avoids desync.
 
-Another option is to leverage the auto drop on origin (you should not do this without RoR5). This is done by delaying your sequence by ~3s and just demon impacting after origin. That way the origin auto drop naturally occurs during RoR so you don't waste time casting the animation. I only recommend doing this rotation on bosses which can't disappear the moment the bind ends (so don't do it in Kalos or Limbo Spectre B for example), as the boss becomes unbound halfway through the end drop.
+Another option is to leverage the auto drop on origin (I would not do this without RoR5). This is done by delaying your sequence by ~3s and just demon impacting after origin. That way the origin auto drop naturally occurs during RoR so you don't waste time casting the animation. I only recommend doing this rotation on bosses which can't disappear the moment the bind ends (so don't do it in Kalos or Limbo Spectre B for example), as the boss becomes unbound halfway through the end drop.
 
 ### Culvert Rotation
 
@@ -92,4 +92,6 @@ Another option is to leverage the auto drop on origin (you should not do this wi
 
 Here is an example video of a rotation with RoR5 and a -4 hat:
 
-[TODO PUT VIDEO]
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/30I3m50q7G8" title="Demon Slayer Rotation with RoR5 and -4 Hat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
